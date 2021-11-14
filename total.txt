@@ -1,0 +1,14 @@
+20 15 13 13 20 10 3 4 20 18 20 20 20 20 20 3 8 3 19 8 13 10 4 20 10 20 14 6 14 11 
+1,Matiur Rahman,Neurology,
+2,Uttam Kumar Saha,Neurology,
+3,M.A Matin,Pediatrics,
+4,Tareq Azad,Pediatrics,
+5,Mohammad Ikbal,Internal Medicine,
+6,M.A Jalil,Internal Medicine,
+7,Shafiqur Rahman,Phsychiatric,
+8,Gupi Kanta Ray,Phsychiatric,
+9,Mohammad Sadi,E.N.T,
+10,Nurul Huda,E.N.T,
+11,Hassan Md. Taher,Emergency,
+12,Abdullah Sayem,Emergency,
+
